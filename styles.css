@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:center;
+	
+}
